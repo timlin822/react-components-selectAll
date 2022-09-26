@@ -1,0 +1,20 @@
+.select-all{
+    width: 20%;
+}
+.select-group{
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+}
+.select-group .checkbox-input{
+    cursor: pointer;
+    width: 18px;
+    height: 18px;
+    margin-right: 8px;
+}
+.select-group label{
+    cursor: pointer;
+    font-size: 24px;
+    font-weight: 500;
+    color: #151515;
+}
